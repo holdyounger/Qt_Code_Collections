@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sqlitecipher", "sqlitecipher\sqlitecipher.vcxproj", "{9650E2B0-1D53-3403-A2CB-410C40D4FCF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sqlitecipher_test_plugin", "test_plugin\sqlitecipher_test_plugin.vcxproj", "{6F6887B2-753F-3973-AFD0-246E80297C59}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "demo\test.vcxproj", "{1EB72F1E-01E8-373F-9DAF-02C7C81700BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9650E2B0-1D53-3403-A2CB-410C40D4FCF9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9650E2B0-1D53-3403-A2CB-410C40D4FCF9}.Debug|Win32.Build.0 = Debug|Win32
+		{9650E2B0-1D53-3403-A2CB-410C40D4FCF9}.Release|Win32.ActiveCfg = Release|Win32
+		{9650E2B0-1D53-3403-A2CB-410C40D4FCF9}.Release|Win32.Build.0 = Release|Win32
+		{6F6887B2-753F-3973-AFD0-246E80297C59}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F6887B2-753F-3973-AFD0-246E80297C59}.Debug|Win32.Build.0 = Debug|Win32
+		{6F6887B2-753F-3973-AFD0-246E80297C59}.Release|Win32.ActiveCfg = Release|Win32
+		{6F6887B2-753F-3973-AFD0-246E80297C59}.Release|Win32.Build.0 = Release|Win32
+		{1EB72F1E-01E8-373F-9DAF-02C7C81700BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1EB72F1E-01E8-373F-9DAF-02C7C81700BE}.Debug|Win32.Build.0 = Debug|Win32
+		{1EB72F1E-01E8-373F-9DAF-02C7C81700BE}.Release|Win32.ActiveCfg = Release|Win32
+		{1EB72F1E-01E8-373F-9DAF-02C7C81700BE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		Qt5Version = 5.9.9
+		SolutionGuid = {9F994054-38AD-4408-8373-277C8A63D0B0}
+	EndGlobalSection
+EndGlobal

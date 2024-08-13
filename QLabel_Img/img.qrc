@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Win11</file>
+        <file>app_icon2.png</file>
+        <file>test.gif</file>
+        <file>bgimg_334.png</file>
+        <file>gif_loding.gif</file>
+    </qresource>
+</RCC>

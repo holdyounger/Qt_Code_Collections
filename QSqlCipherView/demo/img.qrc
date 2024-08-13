@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SQL.ico</file>
+        <file>style.qss</file>
+        <file>button.qss</file>
+    </qresource>
+</RCC>
